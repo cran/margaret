@@ -1,4 +1,4 @@
-f29d2fe1766da8b6abd67e3c956702fb *DESCRIPTION
+b80223eaf516eb4186b0a76671ceb4b6 *DESCRIPTION
 02d1fe178366ca6a503ad9201fd95c43 *LICENSE
 cf696de4d21ce5f9e7062625eb8b42ec *NAMESPACE
 7bd42c236b11682d25f296d2f2266c98 *R/data.R
@@ -6,7 +6,7 @@ cf696de4d21ce5f9e7062625eb8b42ec *NAMESPACE
 71dd843b0db7e14484aef0455dcad4c2 *R/data_cleaning.R
 c2acadd9e6132a6a2dff3e222a74b647 *R/data_getting.R
 55cb7371732de7571bade4675734ce99 *R/data_tidying.R
-fa632af513c2cc6d8b57339c372a0709 *R/functions.R
+c12a8f72776b255d953b19983a67c674 *R/functions.R
 7793c8e2a878c45961221bcf864069af *R/main.R
 d05c2fdcd315fdac1ae180f10aeb5b5f *R/merge_quality_articles.R
 1d10c88a92ac91b8ad19b0b8392371fd *README.md
